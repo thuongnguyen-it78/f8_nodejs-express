@@ -1,0 +1,30 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuongnguyen-it78/f8_nodejs-express.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "thuongnguyen.it78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuongnguyen-it78/f8_nodejs-express/issues"
+  },
+  "homepage": "https://github.com/thuongnguyen-it78/f8_nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
